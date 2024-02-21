@@ -1,0 +1,5 @@
+//SUPPRESSIONPROJ:Rls1
+//VERSION:5.00
+//ENABLE:Yes
+!include Delphi.sup
+
