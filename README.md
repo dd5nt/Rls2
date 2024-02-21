@@ -1,6 +1,6 @@
 # SCADA Система для Управления Производственной Линией (СУПЛ)
 <p align="center">
- <img width="800px" src="Img.png" alt="qr"/>
+ <img width="1200px" src="Img.png" alt="qr"/>
 </p>
 ## Описание проекта
 
